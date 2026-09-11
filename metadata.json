@@ -1,0 +1,6 @@
+{
+  "name": "Academia Bíblica EAD",
+  "description": "Plataforma de formação bíblica a distância com níveis iniciante, intermediário e avançado, salas virtuais com aulas e transmissões ao vivo, biblioteca digital, debates teológicos com chamada de vídeo via WhatsApp, feed de comunicados e controle de presença.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
